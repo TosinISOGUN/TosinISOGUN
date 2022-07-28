@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Oluwatomisin Isogun.
 
 <!--
 **TosinISOGUN/TosinISOGUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
