@@ -2,9 +2,12 @@
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
 ### Passionate software engineer.
-![Coding](https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966)
+
+### ![Coding](https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN)](https://github.com/TosinISOGUN/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=onedark)
 <!--
 **TosinISOGUN/TosinISOGUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
