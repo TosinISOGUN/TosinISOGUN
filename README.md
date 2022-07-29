@@ -12,7 +12,7 @@
 
 ### 🤝 Connect With Me;
 
-<a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.svg" alt="Tosin ISOGUN | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="21px"/></a>
 
 <!--
 https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b
