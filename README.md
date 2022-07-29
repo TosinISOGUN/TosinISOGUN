@@ -1,10 +1,7 @@
 ## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun.
 </p>
 
-### <p align="center"> **Passionate about** *Software Engineering!*
-</p>
-
-### <p align="center"> ![Coding](https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966) </p>
+Passionate about **Software Engineering** and the vast world of Tech.
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
@@ -20,9 +17,10 @@
 <a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
 
 <!--
+### <p align="center"> ![Coding](https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966) </p>
+
 <a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="25px"/></a>
 
-https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b
 **TosinISOGUN/TosinISOGUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
