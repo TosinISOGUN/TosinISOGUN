@@ -1,7 +1,8 @@
-## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun.
-</p>
+## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun. </p>
 
-Passionate about **Software Engineering** and the vast world of Tech.
+<p align="center">
+Passionate about Software Engineering and the vast world of Tech.
+</p>
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
