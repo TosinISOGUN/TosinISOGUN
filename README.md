@@ -10,8 +10,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
 
+### 🤝 Connect With Me;
+
+<a href=”https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align=”left” src=”https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt=”TosinISOGUN | LinkedIn” width=”21px”/></a>
 
 <!--
+https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b
 **TosinISOGUN/TosinISOGUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
