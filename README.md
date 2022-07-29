@@ -1,7 +1,7 @@
 ## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun. </p>
 
 <p align="center">
-Passionate about Software Engineering and the vast world of Tech.
+Passionate about Software Engineering and the vast possibilities in the world of Tech.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
@@ -10,7 +10,7 @@ Passionate about Software Engineering and the vast world of Tech.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
 
-## 🤝 Connect With Me;
+## 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
 <a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
 <a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/whatsapp2.png" alt="Tosin ISOGUN | WhatsApp" width="44px"/></a>
