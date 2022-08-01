@@ -4,6 +4,14 @@
 Passionate about Software Engineering and the vast possibilities in the world of Tech.
 </p>
 
+I feel very motivated about Software Engineering, I truly believe tech can help people and help solve a lot of problems we face in both the physical and digital world.
+
+I've recently began my software engineering career at ALX Holberton Software Engineering programme, which is a yearlong program. I am really happy to have started this journey.
+
+“ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer. “
+
+Of course, this summary is a work in progress, and it is a given that it will always be updated as I augment in the world of Tech.
+
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=dark)
