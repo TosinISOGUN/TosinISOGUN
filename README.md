@@ -28,6 +28,8 @@ Of course, this summary is a work in progress, and it is a given that it will al
 <a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
+
 ### <p align="center"> ![Coding](https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966) </p>
 
 <a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="25px"/></a>
