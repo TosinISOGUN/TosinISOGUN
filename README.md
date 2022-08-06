@@ -18,6 +18,8 @@ Of course, this summary is a work in progress, and it is a given that it will al
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TosinISOGUN&theme=highcontrast)](https://git.io/streak-stats)
+
 ## 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
 <a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
