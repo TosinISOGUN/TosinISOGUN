@@ -1,7 +1,7 @@
 ## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun. </p>
 
 <p align="center">
-Passionate about Software Engineering and the vast possibilities in the world of Tech.
+Passionate about Software Engineering and the vast possibilities in the world of Tech!
 </p>
 
 I feel very motivated about Software Engineering, I truly believe tech can help people and help solve a lot of problems we face in both the physical and digital world.
