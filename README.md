@@ -1,5 +1,5 @@
 ## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun. </p>
-<p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" width="700" height="250" /> </p>
+<p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" width="650" height="250" /> </p>
 
 <p align="center">
 Passionate about Software Engineering and the vast possibilities in the world of Tech!
