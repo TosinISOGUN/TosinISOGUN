@@ -12,9 +12,9 @@ I truly believe tech can help solve a lot of problems we face in both the physic
 
 I've **recently** began my software engineering career at *ALX Holberton School of Software Engineering*, which is a yearlong program. I am really happy to have started this journey.
 
-“ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer. “
+“ The **ALX Holberton Software Engineering programme** is a **12-month(70h/week)** immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer. “
 
-Of course, this summary is a work in progress, and it is a given that it will always be updated as I augment in the world of Tech!
+Of course, I'll keep on updating this summary as I augment and add to my skill-sets in Tech!
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
@@ -23,6 +23,7 @@ Of course, this summary is a work in progress, and it is a given that it will al
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TosinISOGUN&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
+
 
 ## 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
