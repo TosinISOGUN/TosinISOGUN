@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Oluwatomisin+Isogun." alt="Typing SVG" /></a>
 
-<img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" />
+<p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" /> </p>
 
 <p align="center">
 Passionate about Software Engineering and the vast possibilities in the world of Tech!
@@ -30,7 +30,7 @@ Of course, this summary is a work in progress, and it is a given that it will al
 <a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
 
 <!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+my+profile)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Oluwatomisin+Isogun." alt="Typing SVG" /></a>
 
 <a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
 
