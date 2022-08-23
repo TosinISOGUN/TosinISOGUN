@@ -18,9 +18,7 @@ Of course, this summary is a work in progress, and it is a given that it will al
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=highcontrast)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TosinISOGUN&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=highcontrast)    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TosinISOGUN&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
 
