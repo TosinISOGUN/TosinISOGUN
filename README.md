@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2500&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Oluwatomisin+Isogun." alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Oluwatomisin+Isogun." alt="Typing SVG" /></a> </p>
 
 <p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" /> </p>
 
