@@ -6,7 +6,7 @@
 I'm very passionate about Software Engineering and the vast possibilities in the world of Tech!
 </p>
 
-I feel very motivated about Software Engineering, I truly believe tech can help solve a lot of problems we face in both the physical and digital world.
+I truly believe tech can help solve a lot of problems we face in both the physical and digital world.
 
 I've recently began my software engineering career at ALX Holberton School of Software Engineering, which is a yearlong program. I am really happy to have started this journey.
 
