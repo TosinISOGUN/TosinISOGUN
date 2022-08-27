@@ -6,10 +6,6 @@
 I'm very passionate about Software Engineering and the vast possibilities in the world of Tech! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="27" />
 </p>
 
-<p align="center">
-I truly believe tech can help solve a lot of problems we face in both the physical and digital world.
-</p>
-
 I've **recently** began my software engineering career at *ALX Holberton School of Software Engineering*, which is a yearlong program. I am really happy to have started this journey.
 
 “ The **ALX Holberton Software Engineering programme** is a **12-month(70h/week)** immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer. “
