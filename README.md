@@ -28,6 +28,7 @@ Of course, I'll keep on updating this summary as I augment and add to my skill-s
 <a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
 <a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
 
+
 <!--
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2500&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Oluwatomisin+Isogun." alt="Typing SVG" /></a> </p>
 
