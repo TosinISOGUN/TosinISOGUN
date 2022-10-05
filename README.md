@@ -14,12 +14,9 @@ Of course, I'll keep on updating this summary as I augment and add to my skill-s
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=highcontrast)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN)](https://github.com/TosinISOGUN/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TosinISOGUN)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
-
 
 ## 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
