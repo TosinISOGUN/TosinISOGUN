@@ -16,7 +16,7 @@ Of course, I'll keep on updating this summary as I augment and add to my skill-s
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=highcontrast)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TosinISOGUN&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TosinISOGUN)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
 
