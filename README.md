@@ -3,14 +3,14 @@
 <p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" /> </p>
 
 <p align="center">
-I'm very passionate about Software Engineering and the vast possibilities in the world of Tech! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="27" />
+<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="27" />
 </p>
 
-I've **recently** began my software engineering career at *ALX Holberton School of Software Engineering*, which is a yearlong program. I am really happy to have started this journey.
+Oluwatomisin is currently pursuing a Bachelor's Degree in Computer Science at Olusegun Agagu University of Science and Technology, Ondo State.
 
-“ The **ALX Holberton Software Engineering programme** is a **12-month(70h/week)** immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer. “
+He is also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. ( “The **ALX Holberton Software Engineering programme** is a **12-month(70h/week)** immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“ )
 
-Of course, I'll keep on updating this summary as I augment and add to my skill-sets in Tech!
+When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends, plays games, watches animes.
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
