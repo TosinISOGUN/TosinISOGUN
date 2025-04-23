@@ -6,9 +6,9 @@
 <!-- <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="27" />
 </p> -->
 
-Oluwatomisin is currently pursuing a Bachelor's Degree in Computer Science at Olusegun Agagu University of Science and Technology, Ondo State.
+Oluwatomisin holds a Bachelor's Degree in Computer Science from Olusegun Agagu University of Science and Technology.
 
-He is also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. ( “The **ALX Holberton Software Engineering programme** is a **12-month(70h/week)** immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“ )
+He was also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. ( “The **ALX Holberton Software Engineering programme** is a **12-month(70h/week)** immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“ )
 
 When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends, plays games, watches animes.
 
@@ -21,7 +21,7 @@ When he is not coding/attending to projects, he takes strolls around the neighbo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Connect With Me
-<a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
+<a href="https://www.linkedin.com/in/oluwatomisin-isogun-a38740356/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
 <a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
 <a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/whatsapp2.png" alt="Tosin ISOGUN | WhatsApp" width="40px"/></a>
 <a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
