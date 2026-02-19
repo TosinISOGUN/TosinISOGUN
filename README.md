@@ -14,11 +14,13 @@ When he is not coding/attending to projects, he takes strolls around the neighbo
 
 ![](https://komarev.com/ghpvc/?username=TosinISOGUN)
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=radical)](https://github.com/TosinISOGUN/github-readme-stats)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=TosinISOGUN&theme=radical)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/oluwatomisin-isogun-a38740356/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
