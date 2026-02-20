@@ -50,13 +50,6 @@ Here’s a snapshot of what I’ve been building recently:
 *   **[B-PLAN Consulting](https://b-plan-sigma.vercel.app/)** – Crafting the digital presence for a strategic firm delivering transformative business solutions and operational excellence.
 
 ---
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/github-metrics.svg" alt="TosinISOGUN's GitHub Metrics" width="100%">
-</div>
----
-
----
 *"I don't just write code; I solve problems and bring complex ideas to life with React and TypeScript."*
 
 ---
