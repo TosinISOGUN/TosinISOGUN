@@ -44,7 +44,7 @@ I specialize in the **React ecosystem**, focusing on performance, accessibility,
 ### 🌟 Featured Projects
 Here’s a snapshot of what I’ve been building recently:
 
-*   **[Learncity](https://learncityacademy.com/)** – A premium tech education platform empowering the next generation of talent through career-focused programs in Engineering and Design.
+*   **[Learncity](https://learncityacademy.com/)** – A premium tech education platform empowering the next generation of talent through career-focused programs in Engineering and Design. 
 *   **[Adaptive Future Technology](https://www.adaptive-future.com/)** – Engineering Digital Operating Systems for governments and enterprises across Africa to drive large-scale digital transformation.
 *   **[OYOBOOKING.COM](https://oyo-booking-black.vercel.app/)** – A state-wide digital hospitality platform designed to revolutionize hotel accessibility and local tourism in Oyo State.
 *   **[B-PLAN Consulting](https://b-plan-consulting.vercel.app/)** – Crafting the digital presence for a strategic firm delivering transformative business solutions and operational excellence.
