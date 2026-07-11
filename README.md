@@ -40,7 +40,7 @@ I specialize in the **React ecosystem**, focusing on performance, accessibility,
 </p>
 
 ---
-
+<!--
 ### 🌟 Featured Projects
 Here’s a snapshot of what I’ve been building recently:
 
@@ -52,7 +52,7 @@ Here’s a snapshot of what I’ve been building recently:
 ---
 *"I don't just write code; I solve problems and bring complex ideas to life with React and TypeScript."*
 
----
+-->
 
 - 🌐 **Portfolio:** [Visit My Site](https://my-portfolio-g1dz.vercel.app/)
 
