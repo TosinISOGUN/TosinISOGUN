@@ -10,7 +10,7 @@
 </p>
 -->
 
-<img style="width:100%;height:6px;" src="./bar.gif" />
+<img style="width:100%;height:3px;" src="./bar.gif" />
 
   <a align="center" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+a+Frontend+Engineer." alt="Typing SVG" />
