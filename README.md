@@ -1,3 +1,5 @@
+
+
 <p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" /> </p>
 
 <p align="center">
@@ -8,15 +10,13 @@
 </p>
 -->
 
-<p align="center"> 
-  <a href="https://git.io/typing-svg">
+<img style="width:100%;height:6px;" src="./bar.gif" />
+
+  <a align="center" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+a+Frontend+Engineer." alt="Typing SVG" />
   </a> 
-</p>
 
----
-
-# Hi there, I'm Oluwatomisin Isogun 👋 
+<!--# Hi there, I'm Oluwatomisin Isogun 👋 -->
 
 ### 🚀 Frontend Engineer | Fluid UI Explorer | Computer Science Graduate
 
@@ -90,7 +90,7 @@ When he is not coding/attending to projects, he takes strolls around the neighbo
   <a href="mailto:oluwatomisinisogun@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-g1dz.vercel.app/" target="_blank">
+  <a href="https://portfolio.isogunlabs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-5581F7?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
