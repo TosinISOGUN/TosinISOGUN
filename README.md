@@ -30,7 +30,7 @@ I specialize in the **React ecosystem**, focusing on performance, accessibility,
 - **Core:** React 18, TypeScript, JavaScript (ES6+)
 - **Styling & UX:** Tailwind CSS, Framer Motion, Shadcn UI, Radix UI
 - **Build & State:** Vite, TanStack Query (React Query), Zod, React Hook Form
-- **Testing & Tools:** Vitest, ESLint, Git, Vercel
+- **Testing & Tools:** Vitest, ESLint, Git, Vercel 
 
 <p align="left">
   <a href="https://skillicons.dev">
