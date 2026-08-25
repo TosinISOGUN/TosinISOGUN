@@ -39,6 +39,7 @@ I specialize in the **React ecosystem**, focusing on performance, accessibility,
 </p>
 
 ---
+
 <!--
 ### 🌟 Featured Projects
 Here’s a snapshot of what I’ve been building recently:
