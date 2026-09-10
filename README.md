@@ -17,7 +17,7 @@
 
 <!--# Hi there, I'm Oluwatomisin Isogun 👋 -->
 
-### 🚀 Frontend Engineer | Fluid UI Explorer | Computer Science Graduate
+### 🚀 Frontend Engineer | Fluid UI Explorer | Computer Science Graduate 
 
 I'm a Frontend Engineer dedicated to building digital experiences that don't just work—they feel **"alive."** With a background in Computer Science and a passion for motion design, I bridge the gap between complex logic and seamless, interactive user interfaces.
 
