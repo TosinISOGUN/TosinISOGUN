@@ -7,11 +7,15 @@
 <h1 align="center">Oluwatomisin Isogun</h1>
 
 <p align="center">
-  <strong>Frontend Engineer · React & TypeScript · Product Engineering</strong>
+  <strong>Frontend & Product Engineer · React · TypeScript · Product Engineering</strong>
 </p>
 
 <p align="center">
-  I build responsive, accessible, and production-ready web products with a focus on the people who actually use them.
+  I build responsive, accessible, production-ready web products, turning complex requirements into interfaces people can use intuitively.
+</p>
+
+<p align="center">
+  React · TypeScript · Next.js · TanStack · Tailwind CSS · PWA · REST APIs · Atlassian Forge
 </p>
 
 <p align="center">
@@ -32,28 +36,32 @@
 
 I'm a **Frontend & Product Engineer** with a Computer Science background, focused on turning product ideas and complex workflows into interfaces that feel simple, fast, and intuitive.
 
-My work spans **booking platforms, SaaS products, property technology, education platforms, and developer tools**. I work primarily in the React ecosystem, with particular attention to responsive design, performance, accessibility, real-time experiences, and maintainable frontend architecture.
+My work spans **booking platforms, SaaS products, property technology, education platforms, and developer tooling**, including commercially distributed applications on the Atlassian Marketplace.
+
+I work primarily in the React ecosystem, with particular attention to responsive design, performance, accessibility, real-time experiences, and maintainable frontend architecture.
 
 Beyond implementing interfaces, I enjoy thinking through the product itself: how people move through it, where friction exists, and how engineering decisions can make the experience better.
 
 Currently building products at **Isogun Labs** and contributing to production applications used across different markets.
 
+💼 **Open to Frontend & Product Engineering opportunities**, particularly roles involving React, TypeScript, product-focused development, and complex user interfaces.
+
 ---
 
 ## 🚀 Selected Projects
 
-Some of my strongest work lives in private organizational repositories, so this section also serves as a showcase of production products that aren't represented by public repositories on my profile.
+A selection of production products I've built and contributed to across booking, SaaS, property technology, education, and developer tooling.
 
-| Project | What I Built | Engineering Highlights | |
-| :--- | :--- | :--- | :---: |
-| **OyoBooking** | Regional hotel and facility booking platform built around the needs of local renters, facility owners, agents, and platform administrators. | React · TypeScript · PWA · Payments · SSE · Geolocation · Yoruba localization · Multi-role workflows | [**Live ↗**](https://oyobooking.ng) |
-| **Open School Field** | Multi-tenant facility booking platform for discovering facilities, checking availability, and managing bookings across devices. | React 19 · TypeScript · TanStack Router/Query · PWA · Service Workers · WebSocket/BroadcastChannel sync | [**Live ↗**](https://open-school-field-five.vercel.app) |
-| **C-HOMES** | Property discovery platform helping NYSC members find verified and affordable accommodation in Ibadan. | React · TypeScript · TanStack Query · Tailwind CSS · Sanity CMS · WhatsApp integration | [**Live ↗**](https://c-homes.vercel.app/) |
-| **Learncity** | Responsive digital platform for a technology education academy offering career-focused training programs. | TypeScript · Responsive UI · Performance Optimization · Conversion-focused UX | [**Live ↗**](https://learncityacademy.com/) |
-| **Nachie Maridadi** | Mobile-first digital showroom for a tailoring and fashion business in Nairobi, Kenya. | TypeScript · Sanity CMS · Responsive Design · Motion · WhatsApp inquiry flow | [**Live ↗**](https://nachiemaridadi.vercel.app/) |
-| **Recap for Jira** | Jira Cloud app that transforms project data into clearer status reporting and dashboards for teams. | Atlassian Forge · React · TypeScript · Jira APIs · OAuth · Marketplace Distribution | [**Marketplace ↗**](https://marketplace.atlassian.com/2146687861) |
-| **Field Hygiene for Jira** | Zero-egress Jira utility for identifying duplicate, unused, and poorly maintained custom fields. | Atlassian Forge · TypeScript · React · Forge KV Storage · Analytics · Zero-egress architecture | [**Marketplace ↗**](https://marketplace.atlassian.com/2905942594) |
-| **Passdown** | Jira app designed to support structured knowledge transfer and continuity across teams. | Atlassian Forge · React · TypeScript · Jira Platform | [**Marketplace ↗**](https://marketplace.atlassian.com/3571155481) |
+| Project | Product | Engineering Highlights |
+| :--- | :--- | :--- |
+| [**OyoBooking ↗**](https://oyobooking.ng) | Regional hotel and facility booking platform supporting renters, facility owners, agents, and administrators. | `React` · `TypeScript` · `TanStack Query` · `Payments` · `Responsive UI` · `Image Optimization` · `Multi-role workflows` |
+| [**Open School Field ↗**](https://open-school-field-five.vercel.app) | Multi-tenant facility booking platform designed for accessible local facility discovery and booking across devices. | `React 19` · `TypeScript` · `TanStack Router/Query` · `PWA` · `Yoruba i18n` · `Payments` · `Maps/Geolocation` · `SSE` · `Service Workers` · `WebSocket/BroadcastChannel` |
+| [**C-HOMES ↗**](https://c-homes.vercel.app/) | Property discovery platform helping NYSC members find verified and affordable accommodation in Ibadan. | `React` · `TypeScript` · `TanStack Query` · `Tailwind CSS` · `Sanity CMS` · `WhatsApp integration` |
+| [**Learncity ↗**](https://learncityacademy.com/) | Digital platform for a technology education academy offering career-focused training programs. | `Responsive UI` · `Performance Optimization` · `Mobile-first Design` · `Conversion-focused UX` |
+| [**Nachie Maridadi ↗**](https://nachiemaridadi.vercel.app/) | Mobile-first digital showroom for a tailoring and fashion business in Nairobi, Kenya. | `TypeScript` · `Sanity CMS` · `Responsive Design` · `Motion` · `WhatsApp inquiry flow` |
+| [**Recap for Jira ↗**](https://marketplace.atlassian.com/2146687861) | Jira Cloud app that transforms project data into clearer status reporting and dashboards for teams. | `Atlassian Forge` · `React` · `TypeScript` · `Jira APIs` · `OAuth` · `Marketplace Distribution` |
+| [**Field Hygiene for Jira ↗**](https://marketplace.atlassian.com/2905942594) | Zero-egress Jira utility for identifying duplicate, unused, and poorly maintained custom fields. | `Atlassian Forge` · `TypeScript` · `React` · `Forge KV Storage` · `Analytics` · `Zero-egress architecture` |
+| [**Passdown ↗**](https://marketplace.atlassian.com/3571155481) | Jira app designed to support structured knowledge transfer and continuity across teams. | `Atlassian Forge` · `React` · `TypeScript` · `Jira Platform` |
 
 > 🔒 **A note on source code:** Some of the applications above are commercial products developed within private organizational repositories. Their live products are linked here to showcase the work while respecting repository access and ownership.
 
@@ -87,19 +95,22 @@ Some of my strongest work lives in private organizational repositories, so this 
 
 ---
 
-## 🧭 How I Approach Engineering
+## 🧭 Engineering Principles
 
 I care about more than getting a feature to work.
 
-I like building interfaces that are:
+- **Product-minded** — understand the problem before choosing the implementation.
+- **Responsive & accessible** — build for the devices and people actually using the product.
+- **Performance-conscious** — keep rendering, assets, and network overhead under control.
+- **Maintainable** — build systems other engineers can understand and extend.
 
-- **Useful** — solving an actual user or business problem.
-- **Responsive** — designed for the devices people really use.
-- **Performant** — keeping loading, rendering, and network overhead under control.
-- **Accessible** — making products usable by more people.
-- **Maintainable** — creating systems that remain understandable as products grow.
+**Technology is the tool. The product and the people using it come first.**
 
-The technologies are tools. The product and the people using it come first.
+---
+
+<img src="https://ghstats.dev/api/card?username=TosinISOGUN&hide_title=true&border_radius=50" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/langs?username=TosinISOGUN&max_langs=12&layout=grid" alt="Top Languages" />
+<img src="https://ghstats.dev/api/sparkline?username=TosinISOGUN&days=30&width=320&height=80" alt="Contribution Sparkline" />
 
 ---
 
@@ -114,7 +125,7 @@ The technologies are tools. The product and the people using it come first.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://mobile.twitter.com/TomTee_2/" target="_blank">
+  <a href="https://x.com/TomTee_2" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 
