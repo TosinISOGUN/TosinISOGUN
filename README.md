@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5581F7&height=200&section=header&text=Oluwatomisin%20Isogun&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
--->
+--> 
 
 <img style="width:100%;height:3px;" src="./bar.gif" />
 
