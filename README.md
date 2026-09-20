@@ -1,124 +1,132 @@
-
-<p align="center"> <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-5.gif" /> </p>
-
 <p align="center">
-
-<!--
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5581F7&height=200&section=header&text=Oluwatomisin%20Isogun&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
---> 
-
-<img style="width:100%;height:3px;" src="./bar.gif" />
-
-  <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2000&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+a+Frontend+Engineer." alt="Typing SVG" />
-  </a>
-
-<!--# Hi there, I'm Oluwatomisin Isogun 👋 -->
-
-### 🚀 Frontend Engineer | Fluid UI Explorer | Computer Science Graduate 
-
-I'm a Frontend Engineer dedicated to building digital experiences that don't just work—they feel **"alive."** With a background in Computer Science and a passion for motion design, I bridge the gap between complex logic and seamless, interactive user interfaces.
-
----
-
-### 💻 Current Focus
-I specialize in the **React ecosystem**, focusing on performance, accessibility, and high-fidelity animations. I'm currently engineering digital operating systems and educational platforms that drive digital transformation across emerging markets.
-
-### 🛠 Tech Stack
-- **Core:** React 18, TypeScript, JavaScript (ES6+)
-- **Styling & UX:** Tailwind CSS, Framer Motion, Shadcn UI, Radix UI
-- **Build & State:** Vite, TanStack Query (React Query), Zod, React Hook Form
-- **Testing & Tools:** Vitest, ESLint, Git, Vercel 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,framer,vite,nextjs,nodejs,git,vercel,vscode,postman" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=28&duration=2200&pause=900&color=5581F7&center=true&vCenter=true&width=650&lines=Hello+there+%F0%9F%91%8B;I'm+Oluwatomisin+Isogun.;Frontend+%26+Product+Engineer.;I+build+web+products+for+real+people." alt="Typing SVG" />
   </a>
 </p>
 
----
+<h1 align="center">Oluwatomisin Isogun</h1>
 
-<!--
-### 🌟 Featured Projects
-Here’s a snapshot of what I’ve been building recently:
+<p align="center">
+  <strong>Frontend Engineer · React & TypeScript · Product Engineering</strong>
+</p>
 
-*   **[Learncity](https://learncityacademy.com/)** – A premium tech education platform empowering the next generation of talent through career-focused programs in Engineering and Design. 
-*   **[Adaptive Future Technology](https://www.adaptive-future.com/)** – Engineering Digital Operating Systems for governments and enterprises across Africa to drive large-scale digital transformation.
-*   **[OYOBOOKING.COM](https://oyo-booking-black.vercel.app/)** – A state-wide digital hospitality platform designed to revolutionize hotel accessibility and local tourism in Oyo State.
-*   **[B-PLAN Consulting](https://b-plan-consulting.vercel.app/)** – Crafting the digital presence for a strategic firm delivering transformative business solutions and operational excellence.
+<p align="center">
+  I build responsive, accessible, and production-ready web products with a focus on the people who actually use them.
+</p>
 
----
-*"I don't just write code; I solve problems and bring complex ideas to life with React and TypeScript."*
-
--->
-
-- 🌐 **Portfolio:** [Visit My Site](https://portfolio.isogunlabs.com/)
-
-  
-<!-- <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="27" />
-</p> -->
-
-<!-- Oluwatomisin holds a Bachelor's Degree in Computer Science from Olusegun Agagu University of Science and Technology.
-
-He was also a student at ALX Holberton School of Software Engineering, where he's had to put to good use his spirit of team work while collaborating on projects with colleagues. ( “The **ALX Holberton Software Engineering programme** is a **12-month(70h/week)** immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.“ )
-
-When he is not coding/attending to projects, he takes strolls around the neighborhood, chats with family/friends, plays games, watches animes.
-
-![](https://komarev.com/ghpvc/?username=TosinISOGUN)
-
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TosinISOGUN&show_icons=true&theme=radical)](https://github.com/TosinISOGUN/github-readme-stats)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=TosinISOGUN&theme=radical)](https://git.io/streak-stats) -->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-## 🤝 Connect With Me
-<a href="https://www.linkedin.com/in/oluwatomisin-isogun-a38740356/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
-<a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
-<a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/whatsapp2.png" alt="Tosin ISOGUN | WhatsApp" width="40px"/></a>
-<a href="https://www.instagram.com/tomisin_amani/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
-<a href="https://mobile.twitter.com/TomTee_2/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oluwatomisin-isogun-a38740356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://portfolio.isogunlabs.com/">
+    <img src="https://img.shields.io/badge/Portfolio-5581F7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/oluwatomisin-isogun-a38740356/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:oluwatomisinisogun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio.isogunlabs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-5581F7?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+---
 
-<!--
-<img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="300" height="100" />
+## 👨🏾‍💻 About Me
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=27&duration=2500&pause=1000&color=5581F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!+%F0%9F%95%BA;I'm+Oluwatomisin+Isogun." alt="Typing SVG" /></a> </p>
+I'm a **Frontend & Product Engineer** with a Computer Science background, focused on turning product ideas and complex workflows into interfaces that feel simple, fast, and intuitive.
 
-<a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
+My work spans **booking platforms, SaaS products, property technology, education platforms, and developer tools**. I work primarily in the React ecosystem, with particular attention to responsive design, performance, accessibility, real-time experiences, and maintainable frontend architecture.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TosinISOGUN&theme=highcontrast&layout=compact)](https://github.com/TosinISOGUN/github-readme-stats)
+Beyond implementing interfaces, I enjoy thinking through the product itself: how people move through it, where friction exists, and how engineering decisions can make the experience better.
 
-### <p align="center"> ![Coding](https://camo.githubusercontent.com/6980a08cbf1de9fd8a7ef3c1c7f8b9c3cf6ceac8ff87fd2b6aaf114b7050c133/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f353430333931382f666f6375732d616e696d6174696f6e2e676966) </p>
+Currently building products at **Isogun Labs** and contributing to production applications used across different markets.
 
-<a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="25px"/></a>
+---
 
-**TosinISOGUN/TosinISOGUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Selected Projects
 
-Here are some ideas to get you started:
+Some of my strongest work lives in private organizational repositories, so this section also serves as a showcase of production products that aren't represented by public repositories on my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What I Built | Engineering Highlights | |
+| :--- | :--- | :--- | :---: |
+| **OyoBooking** | Regional hotel and facility booking platform built around the needs of local renters, facility owners, agents, and platform administrators. | React · TypeScript · PWA · Payments · SSE · Geolocation · Yoruba localization · Multi-role workflows | [**Live ↗**](https://oyobooking.ng) |
+| **Open School Field** | Multi-tenant facility booking platform for discovering facilities, checking availability, and managing bookings across devices. | React 19 · TypeScript · TanStack Router/Query · PWA · Service Workers · WebSocket/BroadcastChannel sync | [**Live ↗**](https://open-school-field-five.vercel.app) |
+| **C-HOMES** | Property discovery platform helping NYSC members find verified and affordable accommodation in Ibadan. | React · TypeScript · TanStack Query · Tailwind CSS · Sanity CMS · WhatsApp integration | [**Live ↗**](https://c-homes.vercel.app/) |
+| **Learncity** | Responsive digital platform for a technology education academy offering career-focused training programs. | TypeScript · Responsive UI · Performance Optimization · Conversion-focused UX | [**Live ↗**](https://learncityacademy.com/) |
+| **Nachie Maridadi** | Mobile-first digital showroom for a tailoring and fashion business in Nairobi, Kenya. | TypeScript · Sanity CMS · Responsive Design · Motion · WhatsApp inquiry flow | [**Live ↗**](https://nachiemaridadi.vercel.app/) |
+| **Recap for Jira** | Jira Cloud app that transforms project data into clearer status reporting and dashboards for teams. | Atlassian Forge · React · TypeScript · Jira APIs · OAuth · Marketplace Distribution | [**Marketplace ↗**](https://marketplace.atlassian.com/2146687861) |
+| **Field Hygiene for Jira** | Zero-egress Jira utility for identifying duplicate, unused, and poorly maintained custom fields. | Atlassian Forge · TypeScript · React · Forge KV Storage · Analytics · Zero-egress architecture | [**Marketplace ↗**](https://marketplace.atlassian.com/2905942594) |
+| **Passdown** | Jira app designed to support structured knowledge transfer and continuity across teams. | Atlassian Forge · React · TypeScript · Jira Platform | [**Marketplace ↗**](https://marketplace.atlassian.com/3571155481) |
+
+> 🔒 **A note on source code:** Some of the applications above are commercial products developed within private organizational repositories. Their live products are linked here to showcase the work while respecting repository access and ownership.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,html,css" alt="Frontend technologies" />
+</p>
+
+**React · TypeScript · JavaScript · Next.js · Tailwind CSS · HTML5 · CSS3**
+
+### Frontend Architecture & UX
+
+`TanStack Query` · `TanStack Router` · `Framer Motion` · `React Hook Form` · `Zod` · `Radix UI` · `shadcn/ui`
+
+### Web & Platform
+
+`REST APIs` · `PWA` · `Service Workers` · `WebSockets` · `SSE` · `Sanity CMS` · `Atlassian Forge`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,vscode,postman,figma" alt="Development tools" />
+</p>
+
+`Git` · `GitHub` · `Vite` · `Vercel` · `Chrome DevTools` · `Postman` · `Figma`
+
+---
+
+## 🧭 How I Approach Engineering
+
+I care about more than getting a feature to work.
+
+I like building interfaces that are:
+
+- **Useful** — solving an actual user or business problem.
+- **Responsive** — designed for the devices people really use.
+- **Performant** — keeping loading, rendering, and network overhead under control.
+- **Accessible** — making products usable by more people.
+- **Maintainable** — creating systems that remain understandable as products grow.
+
+The technologies are tools. The product and the people using it come first.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://portfolio.isogunlabs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-5581F7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/oluwatomisin-isogun-a38740356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://mobile.twitter.com/TomTee_2/" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+
+  <a href="https://www.instagram.com/tomisin_amani/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:oluwatomisinisogun@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Build · Solve · Create Impact</sub>
+</p>
