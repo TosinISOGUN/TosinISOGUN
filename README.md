@@ -1,4 +1,4 @@
-## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun. </p>
+## <p align="center"> Hi there 👋, I'm Oluwatomisin Isogun. </p> 
 
 <p align="center">
 Passionate about Software Engineering and the vast possibilities in the world of Tech!
