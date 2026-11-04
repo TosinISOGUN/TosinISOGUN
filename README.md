@@ -109,7 +109,7 @@ I care about more than getting a feature to work.
 ---
 
 <p align="center"> <img src="https://ghstats.dev/api/card?username=TosinISOGUN&hide_title=true&border_radius=50" alt="GitHub Stats Card" /> </p>
-<img src="https://ghstats.dev/api/langs?username=TosinISOGUN&max_langs=12&layout=grid" alt="Top Languages" />
+<p align="center"> <img src="https://ghstats.dev/api/langs?username=TosinISOGUN&max_langs=12&layout=grid" alt="Top Languages" /> </p>
 <img src="https://ghstats.dev/api/sparkline?username=TosinISOGUN&days=30&width=320&height=80" alt="Contribution Sparkline" />
 
 ---
