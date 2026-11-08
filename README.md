@@ -6,7 +6,7 @@
 
 <!-- <h1 align="center">Oluwatomisin Isogun</h1> -->
 
-<p align="center"> 
+<p align="center">
   <strong>Frontend & Product Engineer · React · TypeScript · Product Engineering</strong>
 </p>
 
